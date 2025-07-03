@@ -1,6 +1,7 @@
 <div>
   <h3 align="center">👋 Hey, I'm Hyy!</h3> 
   <p>Front-end Engineer.</p>
+  <p><a href="https://hyy215.github.io/">My Blog</a></p>
 </div>
 
 <div>
