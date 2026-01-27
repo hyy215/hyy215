@@ -32,7 +32,9 @@
 <div>
   <h4>My Repositories</h4>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyy215&repo=ai-study&show_owner=true" />
+    <a href="https://github.com/hyy215/ai-study">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyy215&repo=ai-study&show_owner=true" />
+    </a>
   </div>
 </div>
 
