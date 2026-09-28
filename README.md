@@ -1,54 +1,67 @@
-<div>
-  <h3 align="center">👋 Hey, I'm Hyy!</h3> 
-  <p>Front-end Engineer.</p>
-  <p><a href="https://hyy215.github.io/">My Blog</a></p>
+<div align="center">
+
+<img width="100%" src="./assets/hello-hyy.png" alt="你好，我是 Hyy 👋 — hello, world!" />
+
+**前端工程师 · 开发者工具 · AI / LLM 探索者**
+
+用 TypeScript 构建 Web 应用与开发者工具，也通过可视化和动手实践理解 AI / LLM。
+
+<p>
+  <a href="https://hyy215.github.io/"><img alt="个人博客" src="https://img.shields.io/badge/个人博客-F06745?style=for-the-badge" /></a>
+  <a href="https://github.com/hyy215"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-3155E7?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.zhihu.com/people/hyy6-64"><img alt="知乎" src="https://img.shields.io/badge/知乎-3155E7?style=for-the-badge&logo=zhihu&logoColor=white" /></a>
+  <a href="https://juejin.cn/user/3280598429084893"><img alt="掘金" src="https://img.shields.io/badge/掘金-3155E7?style=for-the-badge" /></a>
+  <a href="mailto:hyy215215@163.com"><img alt="邮箱" src="https://img.shields.io/badge/邮箱-3155E7?style=for-the-badge" /></a>
+</p>
+
 </div>
 
-<div>
-  <h4>Tech Stack</h4>
-  <div>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/javascript-JavaScript?style=flat-square&logo=JavaScript&logoColor=black&color=%23f7df1e">
-    <img alt="Static Badge" src="https://img.shields.io/badge/theia-Theia?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADVElEQVR4nOyWP0j7ThTArzVpS61WEHUxCDoVwf8UHPxDi4pk0UknHRR3SREEQdBBHBQ7uWorKhRBRYdCEUSFVqw6iCAiOkrFRag2Jnf58TMQrpc25z%2F4OuQztS8v18%2B9e%2FeoFfwxTCEaphANU4iGKUTDFKJhCtEwhWgw%2BpDH41lbW3M6nVoEITQ5Obm7u%2Bvz%2BZaXl202GwBAURT8Le0rHtc%2BI4ReXl6Ojo7W19fPzs6%2B5hgIBBQdkUgEALC6uqp%2F9FVOTk46Ozvz%2FbpFHyopKZmeni4uLtYi7%2B%2FvS0tLNzc3HMdNTEw4P%2Bjr63M4HNTtIYQsHxDBkZGRlZWVr5XKmKmpKeNKbGxstLa22u328vLygYGBZDKJP319fW1ubv5NoYWFhXwqEMKhoSEin2XZnZ0dPO3q6qqgoIBIy3FkGr29vYIgsCyrf%2BRwOLxer4FrIBDQx8vKym5vb91utxYZHh4OhUIGDllcXl5%2Bo2ff3t5KS0vzrTk%2FP48nHx4eEglGFerp6RkfH2eYHKMB33RdXR0eubi4aGpqAgDU19drZhDCRCKRyWR4nt%2Fb29OSIYQulyuTydCK82msVuvp6Sm%2B6ePjYwBAV1cXhBCPq3fK7%2FcTFa2qqspa8IdCCKGc%2ByssLLRasxbHJ62GoijERDA6DgBAS0vL6OioemoPDw9zc3MQQkEQPB6PmsBxXFtbG%2F6KOpy2t7d5nq%2BoqFCDkiTt7%2B8DANQpj5NKpYwdsjg4OMDL293d3djYaNzU6XQaH6oEMzMzeHI8HicSyDFAIMtyTU3N09NTKpU6Pz8PBoOPj4%2B1tbWyLCuK4nK59K%2BwLCuKov76AADcbnc4HMbPbnZ2NplMfqIyn8Bms8Xj8ZxFEkWR53ki32KxhEIhPO3u7s5ut%2F%2BOjcrm5ma%2Bg5MkKRgMVldX%2F9%2BnDOPz%2BWKxGJHQ0dGhX5OcQ36%2F3%2Bv1ap0vy3IkErm%2Fv%2Bc4bnBwEJ%2FalZWVY2Nj%2BtmPo95BhmH0vSwIwuLiImXHRUVFkiQRe43FYvru%2FgnX19f9%2Ff35HLKufTqdjkaj7e3tWgRCqA7Wra2thoYG46ltXKrn5%2BdEIhEOh6PRKELoe%2Bv8A%2F7cf2pTiIYpRMMUomEK0TCFaJhCNP6c0H8BAAD%2F%2FxgtChDa75NmAAAAAElFTkSuQmCC&color=black">
-  </div>
-</div>
+## 🧩 精选项目
 
-<div>
-  <h4>GitHub Stats</h4>
-  <div>
-     <img src="https://github-readme-stats.vercel.app/api?username=hyy215&hide=commits&show_icons=true" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/hyy215/ui-forge">ui-forge</a></h3>
+      <p>从需求与设计，<br>构建真实可交互的前端。</p>
+      <p><code>TypeScript</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/hyy215/ai-study">AI Study</a></h3>
+      <p>拆解 AI / LLM 核心概念，<br>提供交互式可视化实验。</p>
+      <p><code>TypeScript</code> <code>Transformers.js</code> <code>Weaviate</code></p>
+    </td>
+  </tr>
+</table>
 
-<div>
-  <h4>Most Used Language</h4>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=glsl,c++,astro,makefile,rust,go&layout=compact" />
-  </div>
-</div>
+## 👋 我在做什么
 
-<div>
-  <h4>My Repositories</h4>
-  <div>
-    <a href="https://github.com/hyy215/ai-study">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyy215&repo=ai-study&show_owner=true" />
-    </a>
-  </div>
-</div>
+- 💻 使用 **TypeScript**、**React** 和 **Node.js** 构建前端应用
+- 🧩 关注浏览器扩展、VS Code 扩展与 **Eclipse Theia** 等开发者工具生态
+- 🤖 关注 AI 的发展
+- ✍️ 在[个人博客](https://hyy215.github.io/)记录前端工程与技术实践
 
-<div>
-  <h4>Where to find me</h4>
-  <div>
-    <a href="mailto:hyy215215@163.com">
-      <img alt="Static Badge" src="https://img.shields.io/badge/email-email?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAAAXNSR0IArs4c6QAACcZJREFUeF7tnU161EgMQO0sgFMAy%2BQUE06WcLL0nAKWwCmARXs%2BN%2BmZTOJOlVVS2ZIeGxZxyaWneq2q%2Fh0H%2FkEAAhcJjLCBAAQuE0AQVgcEXiGAICwPCCAIawACMgJ0EBk3RiUhgCBJCk2aMgIIIuPGqCQEECRJoUlTRgBBZNwYlYQAgiQpNGnKCCCIjBujkhBAkCSFJk0ZAQSRcWNUEgIIkqTQpCkjgCAyboxKQgBBkhSaNGUEEETGjVFJCCBIkkKTpowAgsi4MSoJAQRJUmjSlBFAEBk3RiUhgCBJCk2aMgIIIuPGqCQEECRJoUlTRgBBZNwYlYQAgiQpNGnKCCCIjBujkhBAkCSFJk0ZAQSRcWNUEgIIkqTQpCkjgCAyboxKQgBBkhSaNGUEEETGjVFJCCBIkkKTpoxAN0G%2BfHx3e5ri8fjnf%2F5BQErg6upw8%2B3nQTp8zThTQWYpxmm6G6YJKdZUhWurCEzD8Hm%2B8ObH7%2FuqAYKLTARBDEElGNJEYJbFQhR1Qb68f3M%2FDsNdU7YMhoCAgIUkqoJ8%2FfD2ge2UoLIMUSOgLYmaIHQOtRoTqJXAOB6uv%2F%2F61BpmHq8iCHJolIIYmgS0OkmzIMihWVZiaRKYrq4%2BtT4djCCaFSHWvggobLWaBKF77Gs9MJuXBFq7CIKwqmITaOwiTYJ8ff9mik2X7CIQuP7xW7zOxQNPr5Yfjw8RAJJDbAIt26y%2BgozjYRrHz63PLMQuJ9m9RkDyYvQ2ggjeUqL13DRLKC8Byc7FjSAte8G8S4LMnxNYe%2FZteWCWb7EEHQRBWOwaBBBEgyIxwhJAkLClJTENAgiiQZEYYQmEFaTlsBS22iRWTUD6SdWWddf1kH4m0TLhappcGIpAy%2Fv%2BWtbbJoKcKje%2FaDhNf1t8jjjUykiejLRrPMXmU5DHDFomn3zthE%2B%2FpWuEEYRtV%2Fh1vjpByavlr92k5UF4uy3WQkYtiayuAgN2R0BjO7WUVMu62pUgdJPdrdluE9LaTqUQ5N9DPO%2F87bZAt7qRVdcIdwa5VKCW9rhV0blvHQHLrpFGELZddYvN01U9ukY6QeaE6SaeNHg5195iaDy47vKQXloGiFIitL%2B%2F99pO5TmkF2p8%2Bur7jr8Tsb8l52NGW3WNlFss7UcHH0vM7yy37Bo%2BBRnHg9W3v7Pt2o9Ipl1DsIZa1kbXM8j8kVvLR5UWEPtZXr5nIvnWkdqMz%2FUN%2B3mQp59JR5TaZeHjOst6nt75%2FeRF4xSCzGW3hEo36SOW6XZqfmp%2F4Rva0whyLiGi9FnM2nexrNvcNS79CE46Qay7CS8y6qph2jUqvn0zpSB0E91FbBWtxyG8NPfUgiBKaXls83ftDzH9L4uKrvH0egR5pGG5x%2BUQXyea6XZK%2BP46BHlWO0SpW8zaV1lyf%2B0QXsoDQRYIWReLb1j5D7pp11i5nVqSBUFeeQixFIVtl4%2FXphCk0GPnR7jheLwdh%2BGu1I4lf88oyp4O4aWaIUiJEIf4SkLly0y3U8JDeGnWCFIixCF%2BJaHlyy23q8%2FfP6Uy4ccgCCKg6bXYglSbh5h2DYVDeClBBCkR4hAvJmT5QNLr7IYg4vL%2FGWj6CGm0r25MuTjclEmHrvE0QQQplrvuggiPlnWZXr7KVIyNHiwQpHVVcIj%2F00kFP7Rajb5z16CDVFdGdqHlYtnbN6yYd42FDzHJqiIbRQeRcasaZS3K1j8IFD2%2FucgIUrXU5RedFtE4%2FhXpG1ZMu8aG26mlKiOIfO2vGhnl0XYPH2JaBb7xYgRpBLh2uFdRLOdt%2BUr42vo8vx5BWgkKxlsuNu0X0Ey3Uxe%2BSUSA1GwIgpihLQfeuyiW82v5EFOZrN4VCKLHUhTJdBEKX1wz7Ro7O4SXioYgJUKd%2Fm4pypptV7ZDeKm8CFIi1PnvW4ni6UNMPUuCID1pV96rpySm2ynhFq8SU5fLEKQLZtlNrEWZZ2X1UWIvh%2FBSZRCkRGjjv1tKYpKas0N4iQGClAjt5O8eRFnzZMBOsBangSBFRPu5wPobVsSZBusaTzkgiHhVbDdwT90kYtdAkO3WtuqdNxUlcNdAENVlum2w7pIkEeNcVbZY265vtbv3ECX6dmqpGAiitkS3D2T2ol%2ByrsEWa%2Fu1bDoDzW6SsWsgiOny3E%2FwJlESdw0E2c8aNp%2BJRJKln0M2n%2BhOb8AZZKeF0Z5WjSjZt1Mc0rVXnbN4syTzlF%2B8QZHt1MVK0kGcLXKt6c7PeN18%2B3nQihc1DoJErSx5qRBAEBWMBIlKAEGiVpa8VAggiApGgkQlgCBRK0teKgQQRAUjQaISQJColSUvFQIIooKRIFEJIEjUypKXCgEEUcFIkKgEECRqZclLhQCCqGAkSFQCCBK1suSlQgBBVDASJCoBBIlaWfJSIYAgKhgJEpUAgkStLHmpEEAQFYwEiUoAQaJWlrxUCCCICkaCRCWAIFErS14qBBBEBSNBohJAkKiVJS8VAgiigpEgUQkgSNTKkpcKAQRRwUiQqAQQJGplyUuFAIKoYCRIVAIIErWy5KVCAEFUMBIkKgEEiVpZ8lIhgCAqGAkSlQCCRK0seakQQBAVjASJSgBBolaWvFQI%2BBDk47vb8Xh8WJMxP2W8hhbXLhGo%2BWXg5%2BNafil4lJZh%2FsHJtYIM43i4%2Fv7rk%2FSejMtN4LTmpulumKbbNSRaHpj7CrImK66FgBKBTQSZ5752L6iUL2EgsIrA9Y%2Ff4kYgHngS5MPbh7XtblVmXAyBRgIt54%2F51k2CiM4hjQkzHAJrCGwqCF1kTam4tjeBVjmaO8gcgC7Su%2Bzcr5bALgQ5SfL%2Bzf04DHe1E%2Bc6CFgT0JBDpYOcE%2BXAbl1y4tcS0JJDVRA6SW35uM6UgPKL0U3PYi0lynbLtPwEf4WAZuc430ZdEDoJa7g7gXE8TOP4%2Bebbz4P2vU0EOU9y7iaP%2BzgO8NqVI94wv7fPSgzTDrK49fr47nY4Hle9yYw1AIEXBK6uTl3Colss0TbtIJQXAt4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4JIIj3CjJ%2FUwIIYoqX4N4J%2FAPr30kyf5Q%2BnQAAAABJRU5ErkJggg%3D%3D&color=%23f1f3f4">
-    </a>
-    <a href="https://www.zhihu.com/people/hyy6-64" target="blank">
-      <img alt="zhihu" src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E7%9F%A5%E4%B9%8E?style=flat-square&logo=zhihu&color=%23f1f3f4">
-    </a>
-    <a href="https://juejin.cn/user/3280598429084893" target="blank">
-      <img alt="juejin" src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E6%8E%98%E9%87%91?style=flat-square&logo=image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAzNiAyOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNy41ODc1IDYuNzcyNjhMMjEuODIzMiAzLjQwNTA1TDE3LjU4NzUgMC4wMDc0ODIzN0wxNy41ODM3IDBMMTMuMzU1NSAzLjM5NzU3TDE3LjU4MzcgNi43Njg5NEwxNy41ODc1IDYuNzcyNjhaTTE3LjU4NjMgMTcuMzk1NUgxNy41OUwyOC41MTYxIDguNzc0MzJMMjUuNTUyNiA2LjM5NDUzTDE3LjU5IDEyLjY4MDhIMTcuNTg2M0wxNy41ODI1IDEyLjY4NDVMOS42MTk5MyA2LjQwMjAxTDYuNjYwMTYgOC43ODE4MUwxNy41ODI1IDE3LjM5OTJMMTcuNTg2MyAxNy4zOTU1Wk0xNy41ODI4IDIzLjI4OTFMMTcuNTg2NSAyMy4yODU0TDMyLjIxMzMgMTEuNzQ1NkwzNS4xNzY4IDE0LjEyNTRMMjguNTIzOCAxOS4zNzUyTDE3LjU4NjUgMjhMMC4yODQzNzYgMTQuMzU3NEwwIDE0LjEyOTFMMi45NTk3NyAxMS43NTMxTDE3LjU4MjggMjMuMjg5MVoiIGZpbGw9IiMxRTgwRkYiLz4KPC9zdmc%2BCg%3D%3D&color=%23f1f3f4">
-    </a>
-  </div>
+## 🧰 技术栈
+
+**前端开发**
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+
+**开发者工具**
+
+<p>
+  <img alt="Chrome Extension" src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img alt="VS Code Extension" src="https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square" />
+  <img alt="Eclipse Theia" src="https://img.shields.io/badge/Eclipse_Theia-Developer_Tooling-5C2D91?style=flat-square" />
+</p>
+
+<div align="center">
+  <p>
+    <a href="https://github.com/hyy215?tab=repositories">浏览更多项目 →</a>
+  </p>
+  <sub>持续写代码，持续记录，也持续把复杂的问题讲清楚。</sub>
 </div>
